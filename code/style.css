@@ -1,11 +1,11 @@
 
 #h1 {
     margin-top: 10px;
-    margin-bottom: 10px;
+    margin-bottom: 25px;
 }
 #password{
-    margin-top: 10px;
-    margin-bottom: 10px;  
+    margin-top: 15px;
+    margin-bottom: 15px;  
 }
 #log-in-form,h1 {
     text-align: center;
@@ -17,4 +17,9 @@
 .bottone {
     margin-bottom: 10px;
     margin-top: 10px;
+}
+
+#registrati,#passworddimenticata{
+     text-align: left;
+     margin-bottom: 15px;  
 }
